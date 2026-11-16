@@ -11,14 +11,6 @@
     },
     {
       "id": "2",
-      "title": "Update available: v1.3 (350)",
-      "message": "Faster connect, shorter export links and encrypted configs. Tap to download.",
-      "url": "https://github.com/arjienx/json/releases/download/v1.3/app-release.apk",
-      "maxVersionCode": 350,
-      "priority": 10
-    },
-    {
-      "id": "8",
       "title": "Testing Custom",
       "message": "Notification Test - 8",
       "priority": 10
