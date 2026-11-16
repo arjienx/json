@@ -1,19 +1,19 @@
 {
   "enabled": true,
   "timezone": "Asia/Manila",
-  "minGapMinutes": 60,
+  "minGapMinutes": 1,
   "notifications": [
     {
       "id": "welcome-2026-11",
       "title": "Welcome to Custom v1.3 (350)",
-      "message": "Thanks for using the app! New: IPv6 exclusions now work the same on every Android version.",
+      "message": "Developer - Arjienx",
       "priority": 20
     },
     {
       "id": "update-1.4",
       "title": "Update available: v1.3 (350)",
       "message": "Faster connect, shorter export links and encrypted configs. Tap to download.",
-      "url": "https://github.com/arjienx/json/releases/download/v1.4/app-release.apk",
+      "url": "https://github.com/arjienx/json/releases/download/v1.3/app-release.apk",
       "maxVersionCode": 350,
       "priority": 10
     }
